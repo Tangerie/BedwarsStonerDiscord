@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "name": "bedwarsstoner",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "build": "tsc"
+  },
+  "author": "Tangerie",
+  "license": "ISC",
+  "description": ""
+}
