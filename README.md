@@ -32,6 +32,6 @@ OR
 - Hypixel API
 
 ## TODO
-[x] Setup admin perms
-[ ] Update permissions on role change
-[ ] Add commands when guild is added
+- [x] Setup admin perms
+- [ ] Update permissions on role change
+- [ ] Add commands when guild is added
